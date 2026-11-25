@@ -10,3 +10,8 @@ scikit-learn==1.9.1
 torch==2.15.0+cpu
 torchvision==0.29.2+cpu
 ultralytics==8.4.218
+
+
+#commande à lancer pour récupérer les dépendances: python3.12 -m venv .venv
+# source .venv/bin/activate
+# python -m pip install -r requirements.txt
